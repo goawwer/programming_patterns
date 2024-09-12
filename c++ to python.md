@@ -1,6 +1,6 @@
 ```python
-    class Token:
-        pass
+class Token:
+    pass
 
 
 class BytecodeStream:
