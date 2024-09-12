@@ -1,5 +1,6 @@
-class Token:
-    pass
+```python
+    class Token:
+        pass
 
 
 class BytecodeStream:
@@ -96,3 +97,4 @@ class Compiler:
         parse_tree = builder.get_root_node()
 
         parse_tree.traverse(generator)
+```
